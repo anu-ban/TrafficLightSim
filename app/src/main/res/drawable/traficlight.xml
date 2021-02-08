@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/red" android:duration="2000" android:id = "@+id/red" />
+    <item android:drawable="@drawable/red_yellow" android:duration="2000" android:id = "@+id/red_yellow" />
+    <item android:drawable="@drawable/green" android:duration="2000" android:id = "@+id/rreen" />
+    <item android:drawable="@drawable/red2" android:duration="2000" android:id = "@+id/red2" />
+    <item android:drawable="@drawable/yellow" android:duration="2000" android:id = "@+id/yellow"/>
+
+</animation-list>
